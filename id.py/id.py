@@ -1,6 +1,6 @@
 import sys
 import hashlib
-from PIL import Image, ImageDraw
+from PIL import Image
 
 
 # constants
